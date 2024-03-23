@@ -1,2 +1,3 @@
 ## Startup website:
-#### 1. The website is written with pure HTML and CSS
+#### 1. Please see the deployment of this project here: https://samandeveloper.github.io/startup-js/
+
